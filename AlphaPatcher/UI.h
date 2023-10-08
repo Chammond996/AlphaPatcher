@@ -56,6 +56,7 @@ private:
 	std::map<int, sf::Texture> textures;
 	sf::Sprite background;
 	std::vector<Button*> buttons;
+
 	
 
 	bool running = true;
